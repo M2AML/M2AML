@@ -1,10 +1,20 @@
-- 👋 Hi, I’m <p style="color: red;">Mamadou A Maiga</p>
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning front end web development
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+<!DOCTYPE html>
+<html>
+    <head>
+        <meta charset="utf-8" />
+        <style>
+            p
+            {
+                color: blue;
+            }
+        </style>
+        <title>Premiers tests du CSS</title>
+    </head>
 
-<!---
-M2AML/M2AML is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+    <body>
+        <h1>Mon super site</h1>
+        
+        <p>Bonjour et bienvenue sur mon site !</p>
+        <p>Pour le moment, mon site est un peu <em>vide</em>. Patientez encore un peu !</p>
+    </body>
+</html>
