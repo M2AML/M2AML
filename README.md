@@ -9,7 +9,7 @@ Also skilled in HTML Email Development — responsive and cross-client compatibl
 
 ## Tech Stack
 
-**Client:** Vuejs, NuxtJs, TailwindCSS, Figma
+**Client:** Vuejs, NuxtJs, TailwindCSS, Figma, MJML
 
 <!---
 M2AML/M2AML is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
